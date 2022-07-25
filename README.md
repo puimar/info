@@ -20,7 +20,7 @@ Python SSH Execute multiple commands in same session.
 
 ### Executing program
 
-* python3 ssh2.py hostname info
+* python ssh.py hostname info
 ```
 Usage: ssh.py hostname [OPTIONS] INFO
 
@@ -44,7 +44,7 @@ ex. puimar
 
 ## Version History
 
-* 0.1
+* 0.3
     * Initial Release
 
 ## License
