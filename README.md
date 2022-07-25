@@ -1,6 +1,6 @@
 # Project Title
 
-Python SSH CLI.
+Python SSH CLI
 
 ## Description
 
@@ -22,7 +22,7 @@ Python SSH Execute multiple commands in same session.
 
 * python3 ssh2.py hostname info
 ```
-Usage: ssh2.py hostname [OPTIONS] INFO
+Usage: ssh.py hostname [OPTIONS] INFO
 
 Arguments:
   INFO  [required]
